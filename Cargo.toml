@@ -1,0 +1,14 @@
+[package]
+name = "anthracite"
+description = "Generative art framework and tools, top level project"
+license="GPLv3"
+homepage = "https://github.com/armyofevilrobots/anthracite"
+repository = "https://github.com/armyofevilrobots/anthracite"
+
+
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
